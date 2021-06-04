@@ -1,0 +1,62 @@
+﻿body {
+}
+
+header#cabecalho{
+    background-color: #E10101;
+}
+
+header#cabecalho-restaurante{
+    background-color: blue;
+}
+
+section#corpo {
+    padding-top: 90px;
+    min-height:360px;
+}
+
+section#login {
+    padding-top: 90px;
+    background: url('../../../Imagens/backgroundFood01.png') no-repeat center center fixed;
+    background-size:cover;
+    min-height: 360px;
+}
+
+
+footer#rodape{
+    /*margin-top: 88px;*/
+    
+}
+
+#botoes ul{
+    list-style: none;
+}
+
+#botoes li{
+    display: inline-block;
+}
+
+#logo ul{
+    list-style: none;
+}
+
+#logo li{
+    display:inline-block;
+}
+
+#botoes-login ul{
+    list-style: none;
+  
+}
+#botoes-login li{
+    display: inline-block;
+    
+}
+
+section#login li#mensagem{
+    background-color: darkseagreen;
+    padding: 5px;
+}
+
+#busca-cep{
+    margin-top: 30px;
+}
